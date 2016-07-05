@@ -1,4 +1,4 @@
-#!"C:\xampp\perl\bin\perl.exe"
+#! /opt/perl/bin/perl
 use warnings;
 use strict;
 
